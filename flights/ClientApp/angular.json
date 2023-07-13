@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "flights"
+  "defaultProject": "flights",
+  "cli": {
+    "analytics": false
+  }
 }

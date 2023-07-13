@@ -1,20 +1,31 @@
 ﻿<Properties StartupConfiguration="{D81962D8-5A8B-4891-8FE6-8A16E35E47B9}|flights">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="flights/ClientApp/tsconfig.json">
-    <Files>
-      <File FileName="flights/ClientApp/tsconfig.json" Line="4" Column="21" />
-      <File FileName="flights/ClientApp/src/app/app.component.html" Line="4" Column="5" NotebookId="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__" />
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FlyFlex PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="flights/Properties/launchSettings.json">
+    <Files>
+      <File FileName="flights/Properties/launchSettings.json" Line="17" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlyFlex">
+            <Node name="FlyFlex">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="app.component.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
 </Properties>
