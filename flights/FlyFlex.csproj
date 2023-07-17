@@ -13,6 +13,7 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'flights' " />
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SpaProxy" Version="6.0.20" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
